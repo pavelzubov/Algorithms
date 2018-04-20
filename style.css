@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=Exo+2:400,200,100,300,500,600,700&subset=latin,cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Exo+2:400,200,100,300,500,600,700&subset=latin,cyrillic');
  body,
 html {
     padding: 0px;
@@ -9,7 +9,6 @@ html {
     -ms-user-select: none;
 }
 .element {
-    font-family: 'Roboto';
     text-align: center;
     font-size: 9px;
     color: white;
