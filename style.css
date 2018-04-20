@@ -5,13 +5,13 @@
 html {
     padding: 0px;
     margin: 0px;
-    font-family: roboto;
+    font-family: 'roboto';
 	-webkit-user-select: none;    
 	-moz-user-select: none;
     -ms-user-select: none;
 }
 .element {
-    font-family: roboto;
+    font-family: 'roboto';
     text-align: center;
     font-size: 9px;
     color: white;
